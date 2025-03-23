@@ -36,11 +36,12 @@ Here Are Some Of The Terms Listed To Use The Exclutable:
   © Website Of Aarish Adhikary™ LLC 2025
 
 
-   
+  ![IT Admin](https://img.shields.io/badge/IT%20Admin-%23C31010?style=flat&logoColor=white) 
 
 
+
+<p align="left"> <a href=""> <img src="https://skillicons.dev/icons?i=discord,gmail,html,windows,linkedin" />
 <!---
 --->
-![image](https://github.com/user-attachments/assets/057b396a-dfdf-45fb-a1d8-1067a2279456)
 
 
