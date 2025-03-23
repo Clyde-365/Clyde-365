@@ -36,7 +36,11 @@ Here Are Some Of The Terms Listed To Use The Exclutable:
   © Website Of Aarish Adhikary™ LLC 2025
 
 
-  ![IT Admin](https://img.shields.io/badge/IT%20Admin-%23C31010?style=flat&logoColor=white) 
+![IT Admin](https://img.shields.io/badge/IT%20Admin-%23C31010?style=flat&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Online-brightgreen)
+![Status](https://img.shields.io/badge/Status-Offline-red)
+
+Config files for my GitHub profile.
 
 
 
