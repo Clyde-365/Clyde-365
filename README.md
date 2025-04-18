@@ -9,6 +9,8 @@
 
 The Original New W.A.A Productions
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Clyde-365&show_icons=true&theme=dark&count_private=true)
+
 > [!TIP]
 > <details>
 > <summary><h2> NEWS OF SUPPORT ENDED OF THE CANARY VERSION ONLY WITH AI IN W.A.A PRODUCTIONS </h2></summary>
