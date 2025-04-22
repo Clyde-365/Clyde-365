@@ -20,7 +20,6 @@ The Original New W.A.A Productions
 
 <p><a target="_blank" href="https://www.youtube.com/@Aarish_Adhikary-UTCM" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
 
-
 > [!TIP]
 > <details>
 > <summary><h2> NEWS OF SUPPORT ENDED OF THE CANARY VERSION ONLY WITH AI IN W.A.A PRODUCTIONS </h2></summary>
@@ -213,6 +212,13 @@ This Is The Copyable Text For The License Of The MIT License
         </a>
 <tr></tr>
 <!-- readme: contributors -end -->    
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 
 <!---
