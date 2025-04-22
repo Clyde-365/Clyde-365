@@ -10,9 +10,21 @@
 The Original New W.A.A Productions
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=clyde-365&show_icons=true&theme=onedark&title_color=ffffff&text_color=ffffff&hide_border=true&locale=en&layout=compact" alt="clyde-365" /></p>
+| <a href="https://github.com/clyde-365/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=clyde-365&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Website Of Aarish Adhikary's github stats" /></a> | <a href="https://github.com/clyde-365/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clyde-365&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=clyde-365&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000&hide_border=true&locale=en" alt="clyde-365" /></p>
+#### Top Repositories
+
+
+<a href="https://github.com/Clyde-365/Website-Of-Aarish-Adhikary">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=clyde-365&repo=website-of-aarish-adhikary&theme=buefy" />
+</a>
+
+<br />
+<br />
+
+
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=clyde-365&theme=dark" alt="clyde-365" /></p>
 
@@ -27,7 +39,7 @@ The Original New W.A.A Productions
 > ## "W.A.A Productions is had ended support for Canary Versions For AI Of the Website Of Aarish Adhikary™ (W.A.A)." 
 > ###### (Source: [Website Of Aarish Adhikary](https://aarish-adhikarys-team.adalo.com/w-a-a?target=2x5yyj8bjfapxxnxa9nu65rcn&params=%7B%7D))
 > ---
-> ### Website Of Aarish Adhikary has entered LTS (Long Term Support) for W.A.A versions ≥ 45.00.00.365, where the Stable version, Canary version and Beta version will be kept up to date via new releases.
+> ### Website Of Aarish Adhikary has entered LTSC (Long Term Support Center) for W.A.A versions ≥ 45.00.00.365, where the Stable version, Canary version and Beta version will be kept up to date via new releases.
 > ### This repo will not be archived and support will still be given to any users installing The Canary Version Of This Software from this repo. Thank you all for using this repository and supporting my work, its been a pleasure seeing this community. 
 > ###       
 >
